@@ -1,6 +1,6 @@
 import { AppState } from '../../shared.state';
 
-export type AppLanguage = 'en' | 'ru';
+export type AppLanguage = 'en' | 'pt-BR';
 export type AppTheme = true | false;
 
 export interface SettingsState {

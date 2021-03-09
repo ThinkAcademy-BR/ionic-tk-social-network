@@ -18,7 +18,7 @@
             "data": [
                 {
                     "id": "2d83f512-2a7a-46eb-a417-ee8bc2367f46",
-                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rickyyean/128.jpg",
+                    "avatar": "https://randomuser.me/api/portraits/men/26.jpg",
                     "author": "Mante and Sons",
                     "img": "https://picsum.photos/500/500?random=3"
                 }
@@ -29,28 +29,28 @@
             "data": [
                 {
                     "id": "b4c06fd1-b6fb-4ca6-bd16-08f688255658",
-                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/davidcazalis/128.jpg",
+                    "avatar": "https://randomuser.me/api/portraits/men/48.jpg",
                     "author": "Grady and Sons",
                     "img": "https://picsum.photos/500/500?random=4",
                     "text": "Itaque nesciunt quo temporibus asperiores dolor aut odit corporis. Doloremque numquam dolore repellat officia error. Iure nam necessitatibus ratione enim provident exercitationem."
                 },
                 {
                     "id": "fd6357aa-9e5f-4e5e-bf32-3b4347692bbb",
-                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/grrr_nl/128.jpg",
+                    "avatar": "https://randomuser.me/api/portraits/women/21.jpg",
                     "author": "Kling and Sons",
                     "img": "https://picsum.photos/500/500?random=5",
                     "text": "Maxime nisi magnam deserunt numquam voluptate id ipsum. Facere animi aut."
                 },
                 {
                     "id": "b139ab62-2014-462e-b6bf-99b79756aa96",
-                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jitachi/128.jpg",
+                    "avatar": "https://randomuser.me/api/portraits/women/51.jpg",
                     "author": "Streich, Bogan and Predovic",
                     "img": "https://picsum.photos/500/500?random=6",
                     "text": "Non nesciunt aut tenetur velit incidunt provident ipsum non. Voluptas quos unde. Porro aperiam nemo."
                 },
                 {
                     "id": "7f7031a9-515c-4c46-b68c-a22b655bfbff",
-                    "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/paulfarino/128.jpg",
+                    "avatar": "https://randomuser.me/api/portraits/men/47.jpg",
                     "author": "Kuhn, Kihn and Towne",
                     "img": "https://picsum.photos/500/500?random=7",
                     "text": "Facilis necessitatibus tenetur ut assumenda sint porro nobis quod. Sequi fuga sapiente vitae sint illo aut. Odit expedita quia. Veritatis voluptatibus sint."
@@ -63,7 +63,7 @@
             "id": "e25a1095-9f6e-449c-b8d4-b6435936972c",
             "first_name": "Josie",
             "last_name": "Crooks",
-            "image": "https://s3.amazonaws.com/uifaces/faces/twitter/sta1ex/128.jpg",
+            "image": "https://randomuser.me/api/portraits/women/65.jpg",
             "content": "Cupiditate mollitia cum alias numquam et reprehenderit. Illo quod in numquam. Eum labore voluptate corrupti dolorum eum iusto veritatis. Velit accusantium et ut ipsum.",
             "likes": 18,
             "comments": 27,
@@ -74,7 +74,7 @@
             "id": "c8ee021e-2120-4f62-8a84-aa44278701f7",
             "first_name": "Chris",
             "last_name": "Gutkowski",
-            "image": "https://s3.amazonaws.com/uifaces/faces/twitter/a1chapone/128.jpg",
+            "image": "https://randomuser.me/api/portraits/men/83.jpg",
             "content": "Qui magnam deserunt et quo repudiandae dolores aut molestias. Unde ea est non id. Quo perferendis aperiam voluptatem. Nesciunt occaecati a vero beatae aspernatur et quasi. Corporis in eum.",
             "likes": 54,
             "comments": 75,

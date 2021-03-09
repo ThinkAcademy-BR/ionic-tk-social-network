@@ -40,9 +40,9 @@ export class ProfilePage implements OnInit {
 
   getUser() {
     this.fakerService.getFaker().then((faker) => {
-      this.user.full_name = faker.name.findName();
-      this.user.image = faker.internet.avatar();
-      this.user.status = faker.lorem.word();
+      this.user.full_name = "Felipe de Almeida";
+      this.user.image = "https://yt3.ggpht.com/ytc/AAUvwnhn9JvuuSBbrOjJPcg884bg_wP1dIEldxeMzxsJUA=s900-c-k-c0x00ffffff-no-rj";
+      this.user.status = "Software Engineer";
       this.user.online = faker.random.boolean();
       this.user.isMobileOnline = faker.random.boolean();
       this.user.nickname = this.user.full_name.toLocaleLowerCase().split(' ').join('_');
